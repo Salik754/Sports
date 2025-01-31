@@ -1,0 +1,21 @@
+html,body {
+    background-color: rgb(184, 145, 145);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 80px;
+    color: hsl(240, 100%, 50%);
+    text-shadow: 3px 3px 5px black;
+}
+
+a:link{
+color: chocolate;
+text-shadow: 3px 3px 5px cornflowerblue;
+}
+a:visited{
+color: rgb(12, 251, 255);
+}
+a:hover{
+text-shadow: 2px 2px 3px ;
+}
